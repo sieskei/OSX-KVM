@@ -647,13 +647,13 @@
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<array>
 				<string>rtc-blacklist</string>
-        <string>opencore-version</string>
+				<string>opencore-version</string>
 			</array>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<array>
 				<string>boot-args</string>
 				<string>ForceDisplayRotationInEFI</string>
-        <string>prev-lang:kbd</string>
+				<string>prev-lang:kbd</string>
 			</array>
 		</dict>
 		<key>LegacyOverwrite</key>
@@ -807,8 +807,8 @@
 				<string>HFS+ Driver</string>
 				<key>Enabled</key>
 				<true/>
-        <key>LoadEarly</key>
-        <false/>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>OpenHfsPlus.efi</string>
 			</dict>
@@ -819,8 +819,8 @@
 				<string></string>
 				<key>Enabled</key>
 				<true/>
-        <key>LoadEarly</key>
-        <false/>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>OpenRuntime.efi</string>
 			</dict>
@@ -831,8 +831,8 @@
 				<string></string>
 				<key>Enabled</key>
 				<true/>
-        <key>LoadEarly</key>
-        <false/>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>OpenCanopy.efi</string>
 			</dict>
@@ -843,8 +843,8 @@
 				<string></string>
 				<key>Enabled</key>
 				<true/>
-        <key>LoadEarly</key>
-        <false/>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>XhciDxe.efi</string>
 			</dict>
@@ -855,8 +855,8 @@
 				<string></string>
 				<key>Enabled</key>
 				<true/>
-        <key>LoadEarly</key>
-        <false/>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>UsbMouseDxe.efi</string>
 			</dict>
@@ -867,8 +867,8 @@
 				<string></string>
 				<key>Enabled</key>
 				<true/>
-        <key>LoadEarly</key>
-        <false/>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>OpenUsbKbDxe.efi</string>
 			</dict>
@@ -879,8 +879,8 @@
 				<string></string>
 				<key>Enabled</key>
 				<true/>
-        <key>LoadEarly</key>
-        <false/>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>ResetNvramEntry.efi</string>
 			</dict>
@@ -891,8 +891,8 @@
 				<string></string>
 				<key>Enabled</key>
 				<true/>
-        <key>LoadEarly</key>
-        <false/>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>ToggleSipEntry.efi</string>
 			</dict>
