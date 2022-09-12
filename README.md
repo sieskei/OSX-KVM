@@ -31,3 +31,4 @@ softdep snd_hda_intel pre: vfio-pci
 
 
 # GRUB
+intel_iommu=on iommu=pt
