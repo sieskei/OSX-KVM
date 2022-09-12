@@ -2,12 +2,12 @@
 
 
 # Modules (/etc/modules-load.d)
-kvm.conf:
-kvmgt
-vfio
-vfio_iommu_type1
-vfio_pci
-vfio_virqfd
+kvm.conf:\
+kvmgt\
+vfio\
+vfio_iommu_type1\
+vfio_pci\
+vfio_virqfd\
 
 
 # Options (/etc/modprobe.d)
